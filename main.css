@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(195, 255, 247);
+}
+
+.conteiner{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.flag-sweden{
+    width: 500px;
+    height: 300px;
+    background: rgb(12, 126, 233);
+}
+
+.line1{
+    width: 50px;
+    height: 300px;
+    background: yellow;
+    position: relative;
+    left: 100px;
+}
+
+.line2{
+    width: 500px;
+    height: 50px;
+    background: yellow;
+    position: relative;
+    bottom: 175px;
+}
+
+.flag-greece{
+    width: 500px;
+    height: 315px;
+    background: rgb(20, 120, 235);
+}
+
+.l1{
+    width: 500px;
+    height: 36px;
+    background: #fff;
+    position: relative;
+    top: 245px;
+}
+
+.l2{
+    width: 500px;
+    height: 36px;
+    background: #fff;
+    position: relative;
+    top: 139px;
+}
+
+.l3{
+    width: 325px;
+    height: 35px;
+    background: #fff;
+    position: relative;
+    top: 34px;
+    left: 175px;
+}
+
+.l4{
+    width: 325px;
+    height: 36px;
+    background: #fff;
+    position: relative;
+    top: -73px;
+    left: 175px;
+}
+
+.l5{
+    width: 175px;
+    height: 36px;
+    background: #fff;
+    position: relative;
+    bottom: 73px;
+}
+
+.l6{
+    width: 36px;
+    height: 175px;
+    background: #fff;
+    position: relative;
+    left: 68px;
+    bottom: 179px;
+}
